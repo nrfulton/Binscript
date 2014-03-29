@@ -1,0 +1,5 @@
+[user]
+	email = my.email.address@domain.com
+	name = My Name
+[core]
+	editor = emacs

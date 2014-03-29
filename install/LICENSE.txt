@@ -1,0 +1,9 @@
+The stuff in install_lib is not mine.
+
+File::pushd is due to David Golden and released under the Apache license.
+Information: 
+http://search.cpan.org/~dagolden/File-pushd-1.006/lib/File/pushd.pm
+
+File::Class is due to Ken Williams and released under the Perl license.
+Information:
+http://search.cpan.org/~kwilliams/Path-Class/README.pod
