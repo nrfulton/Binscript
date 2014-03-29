@@ -22,4 +22,10 @@ To setup:
  * Copy this source
  * Add your rc files to the rcfiles directory.
  * Modify the .gitconfig in the rcfiles directory.
- * Add your local bin to the root of this directory.
+ * Add your executables to the root (this directory). Make sure to +x
+
+To copy to a new host:
+ * install git and perl5
+ * Clone this into ~/Bin
+ * cd ~/Bin/install
+ * perl install.pl
